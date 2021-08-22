@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: b60c8943b87214aba8b58000dc3dffab
+  - enabled: 1
+    path: Assets/Scenes/StatsEdit1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/StatsEdit2.unity
+    guid: 6d4ff014ad4094f029f15c41afd4a1bc
+  - enabled: 1
+    path: Assets/Scenes/DataList1.unity
+    guid: 1450210ba9932447f94a71fb6ea5bea4
+  - enabled: 1
+    path: Assets/Scenes/DataList2.unity
+    guid: 6a26424e95d2a4d78bd370670713d77c
+  - enabled: 1
+    path: Assets/Scenes/MatchEdit1.unity
+    guid: 275999e33f346431a85e1634cf5590bb
+  - enabled: 1
+    path: Assets/Scenes/MatchEdit2.unity
+    guid: d24484ee7b6fd469fbf6e12a797e2c5a
+  - enabled: 1
+    path: Assets/Scenes/DataList3.unity
+    guid: 44b09deff301b42f3a0bfc30d868e6db
+  - enabled: 1
+    path: Assets/Scenes/DataListOnline1.unity
+    guid: 248ecd383dca746948e1e78653f26957
+  - enabled: 1
+    path: Assets/Scenes/DataListOnline2.unity
+    guid: 3ee8592026c2145f79903eed626e7ef4
+  - enabled: 1
+    path: Assets/Scenes/DataListOnline3.unity
+    guid: ddf85f0aa41684c9480eb94c9260f516
+  - enabled: 1
+    path: Assets/Scenes/DataListOnline4.unity
+    guid: d572b159b2c6c4977acaf3fb3c705e68
+  - enabled: 1
+    path: Assets/Scenes/DataListOnline5.unity
+    guid: 2fdad5b033bce4cc0967e00b55d6b88d
+  - enabled: 1
+    path: Assets/Scenes/DataListOnline6.unity
+    guid: da259f4a365ba4d518546abbb09418a8
+  - enabled: 1
+    path: Assets/Scenes/DataListOnline7.unity
+    guid: 7c18f44b06a504025bdba1907088281e
+  - enabled: 1
+    path: Assets/Scenes/DataListOnline8.unity
+    guid: 9778485a1e4a54fe188ac911b8d892a9
+  m_configObjects: {}
